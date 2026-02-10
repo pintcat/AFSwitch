@@ -2,13 +2,9 @@ This is how it works... On a command line you can use one of these
 arguments:
 
 D ........ Disable audio filter/LED
-
 E ........ Enable audio filter/LED
-
 S ........ simply Switch the current state of audio filter/LED
-
 H or ? ... small help text
-
 
 And that's it. If no argument is used it will put a return code 5 if the
 filter/LED is off and 0 if it's on. This way you can check the state of the
