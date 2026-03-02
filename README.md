@@ -49,6 +49,9 @@ Changes since 1.0:
  * Filter is now checked only if no argument is given making it optional to
    prevent trouble with altered return code
 
+1.7
+ * Fixed some minor bugs and a typo
+
 Hopefully the last update :) Note that the only library used by AFS is the
 dos.library for text output. The remaining code (the actual filter handling)
 should work with all KickStarts.
